@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Unit Converter/*
+!/Unit Converter/task/
+/Unit Converter/task/*
+!/Unit Converter/task/src
